@@ -1,0 +1,1158 @@
+canonical_identifier: bkk:krp/KR6v0619/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0619/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘廣五蘊論講記
+  identifiers:
+    krp: KR6v0619
+    cbeta: Y44n0042
+    cbeta_old_id: Y44n0042
+    authorityid: CA0008361
+    json_key: Y0042
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y44/Y44n0042.xml
+    old_id: Y44n0042
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0619_000-Y.yaml, hash: 'sha256:f939081efdd8ccc3a1e30df096ad3c09c488c58f8a490db250f9f1ae0813d564'}
+  - {seq: 1, filename: KR6v0619_001-Y.yaml, hash: 'sha256:4b4ea7676fc9bf8fd8e9a84847a5dc7f6f7a364fa33520b19925ed6248c11f9e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0619_000-Y.markers.yaml, hash: 'sha256:faf2042c89c8367c05c518ab1a77dbf3ae79ae59ff5b78930c0c8fbf4d08b028'}
+  - {seq: 1, role: markers, filename: assets/KR6v0619_001-Y.markers.yaml, hash: 'sha256:665f5c13291a56b8b16600c943d87c125ae6a7677ef1204567d38c34eb49462f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 120996
+  label: 大乘廣五蘊論講記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-2
+    span:
+    - body
+    - 295
+    - 295
+  label: 第一章　五蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-3
+    span:
+    - body
+    - 371
+    - 371
+  label: 第一節　色蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-4
+    span:
+    - body
+    - 462
+    - 462
+  label: 第一項　四大種（地、水、火、風）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-5
+    span:
+    - body
+    - 2043
+    - 2043
+  label: 第二項　四大所造色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-6
+    span:
+    - body
+    - 3665
+    - 3665
+  label: 甲　五根
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-7
+    span:
+    - body
+    - 5066
+    - 5066
+  label: 乙　五境
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-8
+    span:
+    - body
+    - 5069
+    - 5069
+  label: 一　色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-9
+    span:
+    - body
+    - 5680
+    - 5680
+  label: 二　聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-10
+    span:
+    - body
+    - 6649
+    - 6649
+  label: 三　香
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-11
+    span:
+    - body
+    - 7356
+    - 7356
+  label: 四　味
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-12
+    span:
+    - body
+    - 7427
+    - 7427
+  label: 五　觸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-13
+    span:
+    - body
+    - 9720
+    - 9720
+  label: 丙　無表色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-14
+    span:
+    - body
+    - 10314
+    - 10314
+  label: 一　有表業所生色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-15
+    span:
+    - body
+    - 11433
+    - 11433
+  label: 二　三摩地所生色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-16
+    span:
+    - body
+    - 12766
+    - 12766
+  label: 第三項　小結（三種色）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-17
+    span:
+    - body
+    - 13216
+    - 13216
+  label: 第二節　受蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-18
+    span:
+    - body
+    - 14580
+    - 14580
+  label: 第三節　想蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-19
+    span:
+    - body
+    - 15359
+    - 15359
+  label: 第四節　行蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-20
+    span:
+    - body
+    - 16405
+    - 16405
+  label: 第一項　心相應行（除受、想之心所法）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-21
+    span:
+    - body
+    - 19016
+    - 19016
+  label: 甲　五遍行心所（受、想、觸、作意、思）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-22
+    span:
+    - body
+    - 19028
+    - 19028
+  label: 一　觸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-23
+    span:
+    - body
+    - 20540
+    - 20540
+  label: 二　作意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-24
+    span:
+    - body
+    - 21448
+    - 21448
+  label: 三　思
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-25
+    span:
+    - body
+    - 22253
+    - 22253
+  label: 乙　五別境心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-26
+    span:
+    - body
+    - 22259
+    - 22259
+  label: 一　欲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-27
+    span:
+    - body
+    - 23743
+    - 23743
+  label: 二　勝解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-28
+    span:
+    - body
+    - 25315
+    - 25315
+  label: 三　念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-29
+    span:
+    - body
+    - 26966
+    - 26966
+  label: 四　三摩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-30
+    span:
+    - body
+    - 30602
+    - 30602
+  label: 五　慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-31
+    span:
+    - body
+    - 32496
+    - 32496
+  label: 丙　十一善心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-32
+    span:
+    - body
+    - 32502
+    - 32502
+  label: 一　信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-33
+    span:
+    - body
+    - 36208
+    - 36208
+  label: 二　慚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-34
+    span:
+    - body
+    - 37412
+    - 37412
+  label: 三　愧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-35
+    span:
+    - body
+    - 38747
+    - 38747
+  label: 四　無貪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-36
+    span:
+    - body
+    - 40577
+    - 40577
+  label: 五　無瞋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-37
+    span:
+    - body
+    - 41565
+    - 41565
+  label: 六　無癡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-38
+    span:
+    - body
+    - 42758
+    - 42758
+  label: 七　精進
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-39
+    span:
+    - body
+    - 44764
+    - 44764
+  label: 八　輕安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-40
+    span:
+    - body
+    - 46503
+    - 46503
+  label: 九　不放逸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-41
+    span:
+    - body
+    - 47357
+    - 47357
+  label: 十　捨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-42
+    span:
+    - body
+    - 49871
+    - 49871
+  label: 十一　不害
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-43
+    span:
+    - body
+    - 51041
+    - 51041
+  label: 丁　六根本煩惱心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-44
+    span:
+    - body
+    - 51049
+    - 51049
+  label: 一　貪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-45
+    span:
+    - body
+    - 53258
+    - 53258
+  label: 二　瞋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-46
+    span:
+    - body
+    - 54219
+    - 54219
+  label: 三　慢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-47
+    span:
+    - body
+    - 57522
+    - 57522
+  label: 四　無明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-48
+    span:
+    - body
+    - 59435
+    - 59435
+  label: 五　見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-49
+    span:
+    - body
+    - 71468
+    - 71468
+  label: 六　疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-50
+    span:
+    - body
+    - 71989
+    - 71989
+  label: 七　小結（俱生、分別起）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-51
+    span:
+    - body
+    - 72219
+    - 72219
+  label: 戊　十小隨煩惱心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-52
+    span:
+    - body
+    - 72227
+    - 72227
+  label: 一　忿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-53
+    span:
+    - body
+    - 72544
+    - 72544
+  label: 二　恨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-54
+    span:
+    - body
+    - 72864
+    - 72864
+  label: 三　覆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-55
+    span:
+    - body
+    - 74464
+    - 74464
+  label: 四　惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-56
+    span:
+    - body
+    - 75266
+    - 75266
+  label: 五　嫉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-57
+    span:
+    - body
+    - 75920
+    - 75920
+  label: 六　慳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-58
+    span:
+    - body
+    - 77021
+    - 77021
+  label: 七　誑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-59
+    span:
+    - body
+    - 77822
+    - 77822
+  label: 八　諂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-60
+    span:
+    - body
+    - 78597
+    - 78597
+  label: 九　憍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-61
+    span:
+    - body
+    - 79111
+    - 79111
+  label: 十　害
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-62
+    span:
+    - body
+    - 79805
+    - 79805
+  label: 己　二中隨煩惱心所（無慚、無愧）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-63
+    span:
+    - body
+    - 80397
+    - 80397
+  label: 庚　八大隨煩惱心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-64
+    span:
+    - body
+    - 80405
+    - 80405
+  label: 一　昏沈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-65
+    span:
+    - body
+    - 81127
+    - 81127
+  label: 二　掉舉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-66
+    span:
+    - body
+    - 81737
+    - 81737
+  label: 三　不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-67
+    span:
+    - body
+    - 82319
+    - 82319
+  label: 四　懈怠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-68
+    span:
+    - body
+    - 82600
+    - 82600
+  label: 五　放逸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-69
+    span:
+    - body
+    - 83094
+    - 83094
+  label: 六　失念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-70
+    span:
+    - body
+    - 84064
+    - 84064
+  label: 七　散亂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-71
+    span:
+    - body
+    - 84544
+    - 84544
+  label: 八　不正知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-72
+    span:
+    - body
+    - 86478
+    - 86478
+  label: 辛　四不定心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-73
+    span:
+    - body
+    - 86484
+    - 86484
+  label: 一　惡作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-74
+    span:
+    - body
+    - 88154
+    - 88154
+  label: 二　睡眠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-75
+    span:
+    - body
+    - 89228
+    - 89228
+  label: 三　尋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-76
+    span:
+    - body
+    - 89935
+    - 89935
+  label: 四　伺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-77
+    span:
+    - body
+    - 91374
+    - 91374
+  label: 第二項　心不相應行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-78
+    span:
+    - body
+    - 92792
+    - 92792
+  label: 甲　得
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-79
+    span:
+    - body
+    - 94406
+    - 94406
+  label: 乙　無想定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-80
+    span:
+    - body
+    - 95435
+    - 95435
+  label: 丙　滅盡定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-81
+    span:
+    - body
+    - 96457
+    - 96457
+  label: 丁　無想天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-82
+    span:
+    - body
+    - 96774
+    - 96774
+  label: 戊　命根
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-83
+    span:
+    - body
+    - 97825
+    - 97825
+  label: 己　眾同分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-84
+    span:
+    - body
+    - 98078
+    - 98078
+  label: 庚　生、老、住、無常
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-85
+    span:
+    - body
+    - 99758
+    - 99758
+  label: 辛　名身、句身、文身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-86
+    span:
+    - body
+    - 102105
+    - 102105
+  label: 壬　異生性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-87
+    span:
+    - body
+    - 102370
+    - 102370
+  label: 第五節　識蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-88
+    span:
+    - body
+    - 103301
+    - 103301
+  label: 第一項　第八識（心）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-89
+    span:
+    - body
+    - 106458
+    - 106458
+  label: 第二項　第七識（意）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-90
+    span:
+    - body
+    - 107260
+    - 107260
+  label: 第三項　前六識（識）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-91
+    span:
+    - body
+    - 107400
+    - 107400
+  label: 第六節　蘊的意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-92
+    span:
+    - body
+    - 108868
+    - 108868
+  label: 第二章　十二處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-93
+    span:
+    - body
+    - 108874
+    - 108874
+  label: 第一節　處的內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-94
+    span:
+    - body
+    - 111279
+    - 111279
+  label: 第二節　處的意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-95
+    span:
+    - body
+    - 111573
+    - 111573
+  label: 第三章　十八界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-96
+    span:
+    - body
+    - 111579
+    - 111579
+  label: 第一節　界的內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-97
+    span:
+    - body
+    - 112828
+    - 112828
+  label: 第二節　界的意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-98
+    span:
+    - body
+    - 113419
+    - 113419
+  label: 第三節　蘊處界對治的用意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-99
+    span:
+    - body
+    - 114439
+    - 114439
+  label: 第四節　十八界的諸門分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-100
+    span:
+    - body
+    - 114450
+    - 114450
+  label: 第一項　有色、無色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-101
+    span:
+    - body
+    - 114655
+    - 114655
+  label: 第二項　有見、無見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-102
+    span:
+    - body
+    - 114797
+    - 114797
+  label: 第三項　有對、無對
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-103
+    span:
+    - body
+    - 115203
+    - 115203
+  label: 第四項　有漏、無漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-104
+    span:
+    - body
+    - 116223
+    - 116223
+  label: 第五項　繫、不繫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-105
+    span:
+    - body
+    - 117110
+    - 117110
+  label: 第六項　蘊所攝、取蘊所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-106
+    span:
+    - body
+    - 117438
+    - 117438
+  label: 第七項　善、不善、無記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-107
+    span:
+    - body
+    - 118163
+    - 118163
+  label: 第八項　內、外
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-108
+    span:
+    - body
+    - 118323
+    - 118323
+  label: 第九項　有緣慮、無緣慮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-109
+    span:
+    - body
+    - 118944
+    - 118944
+  label: 第十項　有分別、無分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-110
+    span:
+    - body
+    - 119417
+    - 119417
+  label: 第十一項　有執受、非執受
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-111
+    span:
+    - body
+    - 119947
+    - 119947
+  label: 第十二項　同分、彼同分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0619_Y_001-mulu-112
+    span:
+    - body
+    - 120281
+    - 120281
+  label: 後語
+  type: mulu
+  level: 1
+hash: sha256:13e2392b9f48b980d06755d4fa2838d0b73702bd429b416386fcf7b7327de88a

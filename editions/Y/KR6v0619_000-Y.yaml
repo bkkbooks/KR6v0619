@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0619/y/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘廣五蘊論講記
+  edition:
+    short: 'y'
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y44/Y44n0042.xml
+    old_id: Y44n0042
+hash: sha256:f939081efdd8ccc3a1e30df096ad3c09c488c58f8a490db250f9f1ae0813d564
