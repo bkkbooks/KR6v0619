@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0619/v1
 canonical_location: https://kanripo.org/bkk/KR6v0619/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘廣五蘊論講記
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0619_000.yaml, hash: 'sha256:f939081efdd8ccc3a1e30df096ad3c09c488c58f8a490db250f9f1ae0813d564'}
-  - {seq: 1, filename: KR6v0619_001.yaml, hash: 'sha256:4b4ea7676fc9bf8fd8e9a84847a5dc7f6f7a364fa33520b19925ed6248c11f9e'}
+  - {seq: 1, filename: KR6v0619_001.yaml, hash: 'sha256:239fb989ddf18596a83b45d691ae05fffb8f6027507135a0576a57b2ce8ac5bb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0619_000.markers.yaml, hash: 'sha256:7eccd2739dad256784c2af94eca00dfa18d0ac18c8720b35b22630c7876421af'}
-  - {seq: 1, role: markers, filename: assets/KR6v0619_001.markers.yaml, hash: 'sha256:359481031ac94ed1eb6d6d62dd1126f9414ec0cab833c63774c03f593baacc73'}
+  - {seq: 1, role: markers, filename: assets/KR6v0619_001.markers.yaml, hash: 'sha256:9452c5fc76d0b53c1fba902ee9f4cac585d9d1a0392e701916b8d61ea66c22fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1154,4 +1154,7 @@ table_of_contents:
   label: 後語
   type: mulu
   level: 1
-hash: sha256:ec8489cc996b7924eda3d52d7c06d6ae3f390f146467f843e2c062f0ea1fc3f9
+hash: sha256:059ff9aa343adae886dcfcc91a72c85b9e227c2fe2a4a732204f758984f9be5f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
